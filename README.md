@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Universidad De Córdoba UCO<br>🌱 I’m currently learning Web <br>
+🔭 I’m currently working on Universidad De Córdoba UCO<br>🌱 I’m currently learning Web application development
+ <br>
 
 
 ## 🌐 Socials:
